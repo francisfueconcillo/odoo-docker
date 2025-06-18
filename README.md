@@ -1,4 +1,5 @@
 # Dockerized Odoo
+Try Odoo, load demo data, preview addons quickly.
 
 ![Odoo Logo](odoo.png)
 
