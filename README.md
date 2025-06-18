@@ -1,5 +1,7 @@
 # Dockerized Odoo
 
+![Odoo Logo](odoo.png)
+
 
 ## Components
 - Odoo 18
