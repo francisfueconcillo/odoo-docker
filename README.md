@@ -9,6 +9,10 @@ Try Odoo, load demo data, preview addons quickly.
 - Postgres 17
 
 
+## Pre-requisites
+- Docker version 24.0.6, build ed223bc  or higher
+
+
 ## Local development
 - Create `.env` file from `.env.sample` and set `POSTGRES_USER` and `POSTGRES_PASSWORD`. Note that this is different from your Odoo database which will be setup using the Odoo Database Manager
 - `docker compose up` to start Odoo
